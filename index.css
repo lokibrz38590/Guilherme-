@@ -41,7 +41,7 @@ nav ul li a {
 
 a {
     color: rgb(255, 255, 255);
-    background-color: #df3f3f;
+    background-color: green;
 }
 /* Estilos para a seção do banner */
 .banner {
@@ -117,7 +117,4 @@ font-size: 24px;
 color: white;
 background-color:#df3f3f;
 font-family: Arial, Helvetica, sans-serif;
-}
-<h1> {
-color:green;
 }
