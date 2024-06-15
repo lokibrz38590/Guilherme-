@@ -13,7 +13,7 @@ header {
     text-align: center;
 }
 
-header .logo h1 {
+header h1 {
     font-size: 24px;
     color: white;
     background-color:#df3f3f;
