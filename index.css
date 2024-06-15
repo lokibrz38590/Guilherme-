@@ -124,3 +124,6 @@ font-family: Arial, Helvetica, sans-serif;
 <h1> {
 <p style="color:#800080"></p>
 }
+.container {
+padding:0px 50px;
+}
