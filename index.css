@@ -64,6 +64,10 @@ a {
       text-algin: centro;
 }
 
+. contêiner {
+preenchimento : 0 px  50 px ;
+}
+
 .banner p {
     font-size: 18px;
     margin-bottom: 20px;
@@ -123,7 +127,4 @@ font-family: Arial, Helvetica, sans-serif;
 }
 <h1> {
 <p style="color:#800080"></p>
-}
-.container {
-padding:0px 50px;
 }
