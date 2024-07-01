@@ -15,7 +15,7 @@ header {
 
 header h1 {
     font-size: 24px;
-    color: white;
+    color: white;class="container"
     background-color:#df3f3f;
     font-family: Arial, Helvetica, sans-serif;
     font color="purple";
@@ -234,3 +234,7 @@ const startAutoSlide = () => {
 };
 startAutoSlide(); //Inicia o slideshow
 </script>
+<div style{
+  <margin:10px;>
+  <pading:20px;>
+}    
